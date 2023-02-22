@@ -24,33 +24,36 @@
   <meta name='twitter:url' content='https://www.roipdarulaman.com'>
   <meta name='twitter:image' content='https://www.roipdarulaman.com/images/roipda_icon.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
-  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css' crossorigin='anonymous'>
+  <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
 </head>
 
 <body>
 	<div class='container text-center position-absolute top-50 start-50 translate-middle'>
-    <img class='img-fluid rounded-3 vw-100' src='./images/roipda_banner.png'>
+    <img class='img-fluid rounded-3 w-75' src='./images/roipda_banner.png'>
 		<div class='row'>
-			<div class='col-12 my-3'>
-			  <h1>Kami akan melancarkan laman sesawang baharu...</h1>
-			  <h2 class='h1 fs-1 fw-bold text-danger'>RoIP Darul Aman</h2>
-			  <p>Laman ini akan dilancarkan dalam:</p>
-        <div class='d-flex justify-content-center gap-3 fs-1 h1'>
-          <span class='countdown text-danger-emphasis'><div class='spinner-grow' role='status'></div></span><p>hari</p>
-          <span class='countdown text-danger-emphasis'><div class='spinner-grow' role='status'></div></span><p>jam</p>
-          <span class='countdown text-danger-emphasis'><div class='spinner-grow' role='status'></div></span><p>minit</p>
-          <span class='countdown text-danger-emphasis'><div class='spinner-grow' role='status'></div></span><p>saat</p>
+			<div class='col-12'>
+			  <h1 class='pt-3'>AKAN DATANG TIDAK LAMA LAGI</h1>
+			  <h2 class='fs-1 fw-bold text-danger'><img class='img-fluid rounded-circle' src='./images/roipda_icon.png' width='5%'> ROIP DARUL AMAN</h2>
+			  <p class='fs-1 mt-4 mb-0'>Laman ini akan dilancarkan dalam:</p>
+        <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0 mb-4'>
+          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
+          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
+          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
+          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
         </div>
 			  <p>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda. Terima kasih.</p>
+        <div class='progress rounded-pill shadow-sm mx-5' role='progressbar' aria-label='web-progress' aria-valuemin='0' aria-valuenow='30' aria-valuemax='100' style='height: 20px'>
+          <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-3' style='width: 30%' id='prog'></div>
+        </div>
 			</div>
 		</div>
-    <div class='row d-flex align-middle my-3'>
-      <p>Hubungi Pentadbir Rangkaian Kumpulan RoIPMARS: <a class='text-decoration-none text-body' href='mailto:hafizi.ruslan@roipmars.org.my'>hafizi.ruslan@roipmars.org.my</a> / <a class='text-decoration-none text-body' href='mailto:9w2lgx@mhrtech.my'>9w2lgx@mhrtech.my</a></p>
+    <div class='row d-flex align-middle mt-3'>
+      <p>Hubungi Pentadbir Rangkaian Kumpulan RoIPMARS: <a class='text-decoration-none text-body' href='mailto:member@roipmars.org.my'>member@roipmars.org.my</a></p>
     </div>
-    <div class='row d-flex align-middle my-3'>
+    <div class='row d-flex align-middle'>
       <div class='col-md-8 col-lg-8 col-xl-8'>
-        <p class='text-lg-start font-monospace'><a href='https://www.roipmars.org.my/policies' class='text-reset text-decoration-none'>Polisi Perkhidmatan</a><br>&copy;<script>document.write(new Date().getFullYear())</script> PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</p>
+        <p class='text-lg-start font-monospace'><a href='https://www.roipmars.org.my/policies' class='text-reset text-decoration-none'>Polisi Perkhidmatan</a><br>&copy;<script>document.write(new Date().getFullYear())</script> PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP&#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</p>
       </div> 
       <div class='col-md-4 col-lg-4 col-xl-4 ml-lg-0'>
         <div class='text-lg-end'>
@@ -62,11 +65,13 @@
       </div>
     </div>
 	</div>
-  <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.min.js' crossorigin='anonymous'></script>
-  <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js' crossorigin='anonymous'></script>
-  <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js' crossorigin='anonymous'></script>
+  <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.js' crossorigin='anonymous'></script>
+  <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.js' crossorigin='anonymous'></script>
+  <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.js' crossorigin='anonymous'></script>
+  <script src='https://unpkg.com/typewriter-effect@latest/dist/core.js' crossorigin='anonymous'></script>
   <script src='./vendor/js/counter.js'></script>
   <script src='./vendor/js/tawkto.js'></script>
+  <script src='./vendor/js/typewriter.js'></script>
 </body>
 
 </html>
