@@ -12,7 +12,10 @@ typewriter
   .typeString('gathering information . . .')
   .pauseFor(3000)
   .deleteAll()
-  .typeString('. . .')
+  .typeString('designing pages . . .')
+  .pauseFor(3000)
+  .deleteAll()
+  .typeString('. . . . . . . . . .')
   .pauseFor(3000)
   .deleteAll()
   .start();
