@@ -16,13 +16,13 @@
   <meta property='og:title' content='RoIPDarulAman | Akan Datang'>
   <meta property='og:description' content='Malaysian CB RoIP Society (RoIPDA)'>
   <meta property='og:url' content='https://www.roipdarulaman.com'>
-  <meta property='og:image' content='/images/roipda_icon.png'>
+  <meta property='og:image' content='media/favicon/favicon-32x32.png'>
   <meta property='og:type' content='website'>
   <meta property='og:locale' content='ms-MY'>
   <meta name='twitter:title' content='RoIPDarulAman | Akan Datang'>
   <meta name='twitter:description' content='Malaysian CB RoIP Society (RoIPDA)'>
   <meta name='twitter:url' content='https://www.roipdarulaman.com'>
-  <meta name='twitter:image' content='/images/roipda_icon.png'>
+  <meta name='twitter:image' content='media/favicon/favicon-32x32.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
   <link rel='apple-touch-icon' sizes='57x57' href='media/favicon/apple-icon-57x57.png'>
   <link rel='apple-touch-icon' sizes='60x60' href='media/favicon/apple-icon-60x60.png'>
