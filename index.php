@@ -24,6 +24,24 @@
   <meta name='twitter:url' content='https://www.roipdarulaman.com'>
   <meta name='twitter:image' content='/images/roipda_icon.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
+  <link rel='apple-touch-icon' sizes='57x57' href='media/favicon/apple-icon-57x57.png'>
+  <link rel='apple-touch-icon' sizes='60x60' href='media/favicon/apple-icon-60x60.png'>
+  <link rel='apple-touch-icon' sizes='72x72' href='media/favicon/apple-icon-72x72.png'>
+  <link rel='apple-touch-icon' sizes='76x76' href='media/favicon/apple-icon-76x76.png'>
+  <link rel='apple-touch-icon' sizes='114x114' href='media/favicon/apple-icon-114x114.png'>
+  <link rel='apple-touch-icon' sizes='120x120' href='media/favicon/apple-icon-120x120.png'>
+  <link rel='apple-touch-icon' sizes='144x144' href='media/favicon/apple-icon-144x144.png'>
+  <link rel='apple-touch-icon' sizes='152x152' href='media/favicon/apple-icon-152x152.png'>
+  <link rel='apple-touch-icon' sizes='180x180' href='media/favicon/apple-icon-180x180.png'>
+  <link rel='icon' type='image/png' sizes='192x192'  href='media/favicon/android-icon-192x192.png'>
+  <link rel='icon' type='image/png' sizes='32x32' href='media/favicon/favicon-32x32.png'>
+  <link rel='icon' type='image/png' sizes='96x96' href='media/favicon/favicon-96x96.png'>
+  <link rel='icon' type='image/png' sizes='16x16' href='media/favicon/favicon-16x16.png'>
+  <link rel='manifest' href='media/favicon/manifest.json'>
+  <meta name='msapplication-TileColor' content='#D7111B'>
+  <meta name='msapplication-TileImage' content='media/favicon/ms-icon-144x144.png'>
+  <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
+  <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
 </head>
@@ -37,9 +55,6 @@
 			  <h2 class='fs-1 fw-bold text-danger'><img class='img-fluid rounded-circle' src='./images/roipda_icon.png' width='5%'> ROIP DARUL AMAN</h2>
 			  <p class='fs-1 mt-4 mb-0'>Laman ini akan dilancarkan dalam:</p>
         <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0 mb-4'>
-          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
-          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
-          <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
           <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
         </div>
 			  <p>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda. Terima kasih.</p>
