@@ -44,9 +44,16 @@
   <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
+  <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
+  <script src='/vendor/js/gtag.js'></script>
+  <script src='/vendor/js/gtm.js'></script>
+  <!-- <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> -->
+  <script src='/vendor/js/gfc.js'></script>
+  <script src='/vendor/js/clarity.js'></script>
 </head>
 
 <body>
+  <noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-TSZNJ3V' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
 	<div class='container text-center position-absolute top-50 start-50 translate-middle'>
     <img class='img-fluid rounded-3 w-75' src='./images/roipda_banner.png'>
 		<div class='row'>
