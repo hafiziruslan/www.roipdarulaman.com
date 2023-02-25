@@ -16,13 +16,13 @@
   <meta property='og:title' content='RoIPDarulAman | Akan Datang'>
   <meta property='og:description' content='Malaysian CB RoIP Society (RoIPDA)'>
   <meta property='og:url' content='https://www.roipdarulaman.com'>
-  <meta property='og:image' content='media/favicon/favicon-32x32.png'>
+  <meta property='og:image' content='./media/favicon/favicon-32x32.png'>
   <meta property='og:type' content='website'>
   <meta property='og:locale' content='ms-MY'>
   <meta name='twitter:title' content='RoIPDarulAman | Akan Datang'>
   <meta name='twitter:description' content='Malaysian CB RoIP Society (RoIPDA)'>
   <meta name='twitter:url' content='https://www.roipdarulaman.com'>
-  <meta name='twitter:image' content='media/favicon/favicon-32x32.png'>
+  <meta name='twitter:image' content='./media/favicon/favicon-32x32.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
   <link rel='apple-touch-icon' sizes='57x57' href='media/favicon/apple-icon-57x57.png'>
   <link rel='apple-touch-icon' sizes='60x60' href='media/favicon/apple-icon-60x60.png'>
@@ -45,11 +45,11 @@
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
-  <script src='/vendor/js/gtag.js'></script>
-  <script src='/vendor/js/gtm.js'></script>
-  <!-- <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> -->
-  <script src='/vendor/js/gfc.js'></script>
-  <script src='/vendor/js/clarity.js'></script>
+  <script src='./vendor/js/gtag.js'></script>
+  <script src='./vendor/js/gtm.js'></script>
+   <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> 
+  <script src='./vendor/js/gfc.js'></script>
+  <script src='./vendor/js/clarity.js'></script>
 </head>
 
 <body>
