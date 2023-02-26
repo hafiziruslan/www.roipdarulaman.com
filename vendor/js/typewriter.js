@@ -9,10 +9,16 @@ var typewriter = new Typewriter(prog, {
 
 typewriter
   .pauseFor(500)
-  .typeString('gathering information . . .')
+  .typeString('gathering informations . . .')
+  .pauseFor(3000)
+  .deleteAll()
+  .typeString('generating navbar . . .')
   .pauseFor(3000)
   .deleteAll()
   .typeString('designing pages . . .')
+  .pauseFor(3000)
+  .deleteAll()
+  .typeString('drafting pages information . . .')
   .pauseFor(3000)
   .deleteAll()
   .typeString('. . . . . . . . . .')
