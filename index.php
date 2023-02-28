@@ -11,6 +11,7 @@
   <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
   <meta name='title' content='RoIPDarulAman | Akan Datang'>
   <meta name='description' content='Malaysian CB RoIP Society (RoIPDA)'>
+  <meta name='keywords' content='roipdarulaman, darulaman, cbdarulaman, roipmalaysia, cbroipmalaysia'>
   <meta name='robots' content='index, follow'>
   <meta property='og:site_name' content='RoIPDarulAman'>
   <meta property='og:title' content='RoIPDarulAman | Akan Datang'>
@@ -77,17 +78,17 @@
       </nav>
     </div>
   </header>
-	<main class='container text-center py-5'>
-    <img class='img-fluid rounded-3 w-75' src='images/roipda_banner.png'>
+	<main class='container text-center my-3'>
+    <img class='img-fluid rounded-3 w-100' src='images/roipda_banner.png'>
 		<div class='row'>
 			<div class='col-12'>
 			  <h1 class='pt-3'>AKAN DATANG TIDAK LAMA LAGI</h1>
 			  <h2 class='fs-1 fw-bold text-danger'>ROIP DARUL AMAN</h2>
-        <div class='progress rounded-pill shadow-sm mx-5' role='progressbar' aria-label='web-progress' aria-valuemin='0' aria-valuenow='35' aria-valuemax='100' style='height: 20px'>
-          <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-3' style='width: 35%' id='prog'></div>
+        <div class='progress rounded-pill' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='25' aria-valuemax='100' style='height: 20px'>
+          <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-3' style='width: 25%' id='prog'></div>
         </div>
-			  <p class='fs-1 mt-4 mb-0'>Laman ini akan dilancarkan dalam:</p>
-        <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0 mb-4'>
+			  <p class='fs-1 mb-0'>Laman ini akan dilancarkan dalam:</p>
+        <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0'>
           <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
         </div>
 			  <p>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda. Terima kasih.</p>
@@ -99,7 +100,7 @@
       <div class='row my-2'>
         <div class='col-lg-8 mx-auto my-1 text-md-start'>
           <h5 class='text-uppercase mb-2 fw-bold'>Sumbangan</h5>
-          <p class='mb-2'>Sumbangan &amp; Derma anda membantu Penyelidikan &amp; Pembangunan kami serta semua Perkhidmatan kami tersedia untuk anda pada bila-bila masa di mana sahaja</p>
+          <p class='mb-2'>Sumbangan &amp; Derma anda membolehkan semua Perkhidmatan kami tersedia untuk anda</p>
           <table class='table table-sm table-bordered table-striped text-center align-middle text-wrap my-0 mx-auto w-auto' style='white-space: nowrap'>
             <tbody>
               <tr><th>Nama</th><td>PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#40;RADIO OVER INTERNET PROTOCOL&#41;&#41;</td></tr>
@@ -107,14 +108,14 @@
               <tr><th>Akaun</th><td>1214 0000 4377 12</td></tr>
             </tbody>
           </table>
-          <p class='my-1 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>Touch n' Go eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX Malaysia Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Credit Card</a></p>
+          <p class='my-1 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Credit Card</a></p>
           <p class='my-0 text-center'>&mdash; DARI ANDA KEMBALI KEPADA ANDA &mdash;</p>
         </div>
         <div class='col-lg-4 mx-auto my-1'>
           <h5 class='text-uppercase mb-2 fw-bold text-md-end'>Hubungi Kami</h5>
           <div class='d-grid gap-1 d-md-flex justify-content-md-end mb-2'>
-            <a type='button' class='btn btn-outline-primary rounded-5 me-md-2' href='mailto:member@roipmars.org.my?subject=Email%20Sent%20from%20Website'><i class='bi-envelope-at'></i> member@roipmars.org.my</a>
-            <button type='button' class='btn btn-outline-primary rounded-5' data-bs-toggle='modal' data-bs-target='.bd-subnewsletter-modal-xl'><i class='bi-envelope-paper'></i> Langgan surat berita kami</button>
+            <a type='button' class='btn btn-outline-info rounded-5 me-md-2' href='mailto:member@roipmars.org.my?subject=Email%20Sent%20from%20Website'><i class='bi-envelope-at'></i> member@roipmars.org.my</a>
+            <button type='button' class='btn btn-outline-info rounded-5' data-bs-toggle='modal' data-bs-target='.bd-subnewsletter-modal-xl'><i class='bi-envelope-paper'></i> Langgan surat berita kami</button>
           </div>
             <div class='modal fade bd-subnewsletter-modal-xl' tabindex='-1' role='dialog' aria-labelledby='subnewsletterModalLabel' aria-hidden='true'>
               <div class='modal-dialog modal-dialog-centered' role='document'>
@@ -136,11 +137,11 @@
     <div class='container'>
       <div class='row my-2 d-flex align-items-center'>
         <div class='col-md-9'>
-          <p class='text-md-start font-monospace'><a href='policies' class='text-reset text-decoration-none'>Polisi Perkhidmatan</a><span class='text-muted'> &#124; <i class='fa-brands fa-php'></i> <i class='fa-brands fa-html5'></i> <i class='fa-brands fa-bootstrap'></i> <i class='fa-brands fa-css3'></i> <i class='fa-brands fa-font-awesome'></i> <i class='fa-brands fa-java'></i> <i class='fa-brands fa-cloudflare'></i></span><br>&copy;<script>document.write(new Date().getFullYear())</script> PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</p>
+          <p class='text-md-start font-monospace'><a href='policies' class='text-reset text-decoration-none'>Polisi Perkhidmatan</a><span class='text-white'> &#124; <i class='fa-solid fa-code'></i> <i class='fa-brands fa-github'></i> <i class='fa-brands fa-php'></i> <i class='fa-brands fa-html5'></i> <i class='fa-brands fa-bootstrap'></i> <i class='fa-brands fa-css3'></i> <i class='fa-brands fa-font-awesome'></i> <i class='fa-brands fa-cloudflare'></i></span><br>&copy;<script>document.write(new Date().getFullYear())</script> PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</p>
         </div> 
         <div class='col-md-3 ml-lg-0 mb-3'>
           <div class='text-md-end'>
-            <a class='text-reset text-decoration-none' href='https://www.facebook.com/groups/240269310577618/'><i class='fa-brands fa-facebook-f h1 mx-1'></i></a>
+            <a class='text-reset text-decoration-none' href='https://www.facebook.com/groups/240269310577618/'><i class='fa-brands fa-facebook-f h1 mx-1 my-0'></i></a>
             <a class='text-reset text-decoration-none' href='https://fb.com/roipmars.org.my'><i class='bi-facebook h1 mx-1'></i></a>
             <a class='text-reset text-decoration-none' href='https://t.me/marsts3servercyberjaya'><i class='bi-telegram h1 mx-1'></i></a>
             <a class='text-reset text-decoration-none' href='https://wa.me/c/601112308482'><i class='bi-whatsapp h1 mx-1'></i></a>
