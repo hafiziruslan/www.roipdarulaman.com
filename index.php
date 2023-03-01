@@ -87,11 +87,12 @@
         <div class='progress rounded-pill' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='25' aria-valuemax='100' style='height: 20px'>
           <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-3' style='width: 25%' id='prog'></div>
         </div>
-			  <p class='fs-1 mb-0'>Laman ini akan dilancarkan dalam:</p>
+			  <p class='fs-1 mb-0'>Laman sesawang ini akan dilancarkan dalam:</p>
         <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0'>
           <span class='countdown text-danger-emphasis'><div class='spinner-border' role='status'></div></span>
         </div>
-			  <p>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda. Terima kasih.</p>
+			  <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda.<br>Terima kasih.</p>
+        <p>Hargai pembangun sesawang melalui <a href='https://bit.ly/m/hafiziruslan'>pautan</a> ini.</p>
 			</div>
 		</div>
 	</main>
@@ -108,7 +109,7 @@
               <tr><th>Akaun</th><td>1214 0000 4377 12</td></tr>
             </tbody>
           </table>
-          <p class='my-1 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Credit Card</a></p>
+          <p class='my-0 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Credit Card</a></p>
           <p class='my-0 text-center'>&mdash; DARI ANDA KEMBALI KEPADA ANDA &mdash;</p>
         </div>
         <div class='col-lg-4 mx-auto my-1'>
