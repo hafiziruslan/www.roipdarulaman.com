@@ -8,7 +8,7 @@
   <meta http-equiv='content-language' content='ms-MY'>
   <meta name='language' content='Malay'>
   <meta name='author' content='HafiziRuslan'>
-  <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+  <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=yes'>
   <meta name='title' content='RoIPDarulAman | Akan Datang'>
   <meta name='description' content='Malaysian CB RoIP Society (RoIPDA)'>
   <meta name='keywords' content='roipdarulaman, darulaman, cbdarulaman, roipmalaysia, cbroipmalaysia'>
@@ -49,7 +49,7 @@
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
   <script src='vendor/js/gtag.js'></script>
   <script src='vendor/js/gtm.js'></script>
-   <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> 
+  <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> 
   <script src='vendor/js/gfc.js'></script>
   <script src='vendor/js/clarity.js'></script>
 </head>
