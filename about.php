@@ -45,6 +45,7 @@
   <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
+  <link rel='stylesheet' href='vendor/css/timeline.css'>
   <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
   <script src='vendor/js/gtag.js'></script>
@@ -62,10 +63,10 @@
       <button class='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'><span class='navbar-toggler-icon'></span></button>
       <nav class='collapse navbar-collapse' id='navbarNav'>
         <ul class='nav navbar-nav nav-pills text-center d-flex ms-auto'>
-          <li class='nav-item'><a class='nav-link disabled' href='about'>Tentang Kami</a></li>
-          <li class='nav-item'><a class='nav-link disabled' href='activity'>Aktiviti</a></li>
+          <li class='nav-item'><a class='nav-link active rounded-3' href='about'>Tentang Kami</a></li>
+          <li class='nav-item'><a class='nav-link' href='activity'>Aktiviti</a></li>
           <li class='nav-item dropdown'>
-            <a class='nav-link dropdown-toggle disabled' href='#' role='button' data-bs-toggle='dropdown' aria-expanded='false'>Jalur Rakyat</a>
+            <a class='nav-link dropdown-toggle' href='#' role='button' data-bs-toggle='dropdown' aria-expanded='false'>Jalur Rakyat</a>
             <ul class='dropdown-menu text-center'>
               <li><a class='dropdown-item' href='cbinfo'>Informasi Jalur Rakyat</a></li>
               <li><a class='dropdown-item' href='cbda'>CB RoIPDarulAman</a></li>
@@ -78,28 +79,72 @@
       </nav>
     </div>
   </header>
-	<main class='container text-center my-3'>
-    <img class='img-fluid rounded-3 w-100' src='media/image/roipda_banner.png'>
-		<div class='row'>
-			<div class='col-12'>
-			  <h1 class='pt-3'>AKAN DATANG TIDAK LAMA LAGI</h1>
-			  <h2 class='fs-1 fw-bold text-danger'>ROIP DARUL AMAN</h2>
-        <div class='progress rounded-pill w-75 mx-auto' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='60' aria-valuemax='100' style='height: 20px'>
-          <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-0' style='width: 60%' id='prog'></div>
-        </div>
-			  <p class='fs-1 mb-0'>Laman sesawang ini akan dilancarkan dalam:</p>
-        <div class='d-flex justify-content-center gap-4 fs-1 fw-bold mt-0'>
-          <span class='countdown text-danger-emphasis'><div class='spinner-border text-body fs-4 fw-normal' role='status'><span class='visually-hidden'>Loading...</span></div></span>
-        </div>
-			  <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda.<br>Terima kasih.</p>
-        <p>Hargai pembangun sesawang melalui <a href='https://bit.ly/m/hafiziruslan'>pautan</a> ini.</p>
-			</div>
-		</div>
+	<main class='container-fluid'>
+    <div class='row' id='kisahroipmars'>
+      <div class='col-12 my-3'>
+        <h2 class='text-center'>Coretan Kisah Kami</h2>
+        <p class='text-center'>Sekiranya anda ada kisah atau kenangan bersama kami, ceritakan ke <a href='mailto:member@roipmars.org.my?subject=Kisah%20bersama%20RoIPDarulAman'>member@roipmars.org.my</a>.</p>
+        <ul class='timeline'>
+
+          <li>
+            <div class='direction-l'>
+              <div class='flag-wrapper'>
+                <span class='hexa'></span>
+                <span class='flag'>Lorem ipsum dolor sit amet.</span>
+                <span class='time-wrapper'><span class='time'>2023</span></span>
+              </div>
+              <div class='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illum provident tenetur, perferendis laboriosam laudantium quidem quasi recusandae in rerum.</div>
+            </div>
+          </li>
+          <li>
+            <div class='direction-r'>
+              <div class='flag-wrapper'>
+                <span class='hexa'></span>
+                <span class='flag'>Lorem ipsum dolor sit amet.</span>
+                <span class='time-wrapper'><span class='time'>2022</span></span>
+              </div>
+              <div class='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illum provident tenetur, perferendis laboriosam laudantium quidem quasi recusandae in rerum.</div>
+            </div>
+          </li>
+          <li>
+            <div class='direction-l'>
+              <div class='flag-wrapper'>
+                <span class='hexa'></span>
+                <span class='flag'>Lorem ipsum dolor sit amet.</span>
+                <span class='time-wrapper'><span class='time'>2021</span></span>
+              </div>
+              <div class='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illum provident tenetur, perferendis laboriosam laudantium quidem quasi recusandae in rerum.</div>
+            </div>
+          </li>
+          <li>
+            <div class='direction-r'>
+              <div class='flag-wrapper'>
+                <span class='hexa'></span>
+                <span class='flag'>Lorem ipsum dolor sit amet.</span>
+                <span class='time-wrapper'><span class='time'>2020</span></span>
+              </div>
+              <div class='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illum provident tenetur, perferendis laboriosam laudantium quidem quasi recusandae in rerum.</div>
+            </div>
+          </li>
+          <li>
+            <div class='direction-l'>
+              <div class='flag-wrapper'>
+                <span class='hexa'></span>
+                <span class='flag'>Lorem ipsum dolor sit amet.</span>
+                <span class='time-wrapper'><span class='time'>2019</span></span>
+              </div>
+              <div class='desc'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio illum provident tenetur, perferendis laboriosam laudantium quidem quasi recusandae in rerum.</div>
+            </div>
+          </li>
+        </ul>
+        <p class='text-center'>Sekiranya anda ada kisah atau kenangan bersama kami, ceritakan ke <a href='mailto:member@roipmars.org.my?subject=Kisah%20bersama%20RoIPDarulAman'>member@roipmars.org.my</a>.</p>
+      </div>
+    </div>
 	</main>
   <button id='scrollToTop' class='btn fixed-bottom float-start mx-1' onClick='scrollToTop()'><i class='bi-arrow-up-square fs-1 text-white'></i></button>
   <footer class='footer pt-1 page-footer font-small bg-body-tertiary text-center'>
     <div class='container'>
-      <!-- <div class='row my-2'>
+      <div class='row my-2'>
         <div class='col-lg-8 mx-auto my-1 text-md-start'>
           <h5 class='text-uppercase mb-2 fw-bold'>Sumbangan</h5>
           <p class='mb-2'>Sumbangan &amp; Derma anda membolehkan semua Perkhidmatan kami tersedia untuk anda</p>
@@ -110,8 +155,8 @@
               <tr><th>Akaun</th><td>1214 0000 4377 12</td></tr>
             </tbody>
           </table>
-          <p class='my-1 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Kredit Kad</a></p>
-          <p class='my-1 text-center'>&mdash; DARI ANDA KEMBALI KEPADA ANDA &mdash;</p>
+          <p class='my-0 text-center'>Kami juga menerima <a class='link-success' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-success' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Kredit Kad</a></p>
+          <p class='my-0 text-center'>&mdash; DARI ANDA KEMBALI KEPADA ANDA &mdash;</p>
         </div>
         <div class='col-lg-4 mx-auto my-1'>
           <h5 class='text-uppercase mb-2 fw-bold text-md-end'>Hubungi Kami</h5>
@@ -130,11 +175,11 @@
                 </div>
               </div>
             </div>
-          <div class='d-md-flex justify-content-md-end'>
-            <img class='img-fluid rounded-3 bg-body-tertiary me-md-2 opacity-75 w-75' loading='lazy' src='https://www.hamqsl.com/solar101sc.php?bgcolor=dark&back=transparent&heline=eve'>
+          <div class='d-md-flex justify-content-md-end opacity-75'>
+            <img class='img-fluid rounded-5 bg-body-tertiary me-md-2' loading='lazy' src='https://www.hamqsl.com/solar101sc.php?bgcolor=dark&back=transparent&heline=eve'>
           </div>
         </div>
-      </div> -->
+      </div>
       <div class='row my-2 d-flex align-items-center'>
         <div class='col-md-9'>
           <p class='text-md-start font-monospace user-select-none'><a href='policies' class='text-reset text-decoration-none pe-auto'>Polisi Perkhidmatan</a><span class='text-body-tertiary'> &#124; <i class='fa-solid fa-code'></i> <i class='fa-brands fa-github'></i> <i class='fa-brands fa-php'></i> <i class='fa-brands fa-html5'></i> <i class='fa-brands fa-bootstrap'></i> <i class='fa-brands fa-css3'></i> <i class='fa-brands fa-font-awesome'></i> <i class='fa-brands fa-cloudflare'></i><br><?php date_default_timezone_get(); $file_last_modified = filemtime(__FILE__); echo 'Kemaskini: ' . date('d/m/Y, h:i A', $file_last_modified); ?> | <?php function getVisitorIp() { if (!empty($_SERVER['HTTP_CLIENT_IP'])) { $ipAdress = $_SERVER['HTTP_CLIENT_IP']; } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) { $ipAdress = $_SERVER['HTTP_X_FORWARDED_FOR']; } else { $ipAdress = $_SERVER['https://api64.ipify.org']; } return $ipAdress; }  echo 'IP Anda: ' . getVisitorIp(); ?><br><i class='bi-c-circle'></i> <script>document.write(new Date().getFullYear())</script> Hak Cipta Terpelihara. | PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</span></p>
@@ -154,9 +199,6 @@
   <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.js' crossorigin='anonymous'></script>
   <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.js' crossorigin='anonymous'></script>
   <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.js' crossorigin='anonymous'></script>
-  <script src='https://unpkg.com/typewriter-effect@latest/dist/core.js' crossorigin='anonymous'></script>
-  <script src='vendor/js/counter.js'></script>
-  <script src='vendor/js/typewriter.js'></script>
   <script src='vendor/js/tawkto.js'></script>
   <script src='vendor/js/stt.js'></script>
 </body>

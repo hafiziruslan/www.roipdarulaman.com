@@ -4,24 +4,26 @@ var typewriter = new Typewriter(prog, {
   loop: true,
   delay: 100,
   autoStart: true,
-  cursor: '',
+  cursor: ''
 });
 
 typewriter
   .pauseFor(500)
-  .typeString('gathering info . . .')
+  .typeString('gathering infos . . .')
+  .pauseFor(1000)
+  .deleteAll()
+  .typeString('drafting pages . . .')
+  .pauseFor(1000)
+  .typeString(' .')
+  .pauseFor(1000)
+  .typeString(' .')
+  .pauseFor(1000)
+  .typeString(' .')
+  .pauseFor(5000)
+  .deleteAll()
+  .typeString('refreshing databases . . .')
   .pauseFor(3000)
-  .deleteAll()
-  .typeString('generating navbar . . .')
-  .pauseFor(1000)
-  .deleteAll()
-  .typeString('designing pages . . .')
-  .pauseFor(3000)
-  .deleteAll()
-  .typeString('drafting pages info . . .')
-  .pauseFor(1000)
-  .deleteAll()
-  .typeString('. . . . . . . . . .')
-  .pauseFor(1000)
+  .typeString(' . . . . . . . . . .')
+  .pauseFor(2000)
   .deleteAll()
   .start();

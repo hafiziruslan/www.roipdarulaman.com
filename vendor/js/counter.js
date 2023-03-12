@@ -1,4 +1,4 @@
-let endDateElm = '23 March 2023 4:00 am'
+let endDateElm = '23 March 2023 6:00 am'
 let countDownItem = document.querySelector('.countdown')
 function countDown() {
     let endDate = new Date(endDateElm);
