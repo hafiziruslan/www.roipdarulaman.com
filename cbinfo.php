@@ -2,29 +2,33 @@
 <html lang='ms-MY' data-bs-theme='dark'>
 
 <head>
-  <title>RoIPDarulAman | Akan Datang</title>
+  <title>ROIPDA | Informasi Jalur Rakyat</title>
   <meta charset='utf-8'>
   <meta http-equiv='Content-Type' content='text/html'>
   <meta http-equiv='content-language' content='ms-MY'>
   <meta name='language' content='Malay'>
   <meta name='author' content='HafiziRuslan'>
   <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=yes'>
-  <meta name='title' content='RoIPDarulAman | Akan Datang'>
-  <meta name='description' content='Malaysian CB RoIP Society (RoIPDA)'>
+  <meta name='title' content='ROIPDA | Informasi Jalur Rakyat'>
+  <meta name='description' content='Informasi Jalur Rakyat RoIPDarulAman'>
   <meta name='keywords' content='roipdarulaman, darulaman, cbdarulaman, roipmalaysia, cbroipmalaysia'>
   <meta name='robots' content='index, follow'>
   <meta property='og:site_name' content='RoIPDarulAman'>
-  <meta property='og:title' content='RoIPDarulAman | Akan Datang'>
-  <meta property='og:description' content='Malaysian CB RoIP Society (RoIPDA)'>
-  <meta property='og:url' content='https://www.roipdarulaman.com'>
+  <meta property='og:title' content='ROIPDA | Informasi Jalur Rakyat'>
+  <meta property='og:description' content='Informasi Jalur Rakyat RoIPDarulAman'>
+  <meta property='og:url' content='https://www.roipdarulaman.com/cbinfo'>
   <meta property='og:image' content='media/favicon/favicon-32x32.png'>
   <meta property='og:type' content='website'>
   <meta property='og:locale' content='ms-MY'>
-  <meta name='twitter:title' content='RoIPDarulAman | Akan Datang'>
-  <meta name='twitter:description' content='Malaysian CB RoIP Society (RoIPDA)'>
-  <meta name='twitter:url' content='https://www.roipdarulaman.com'>
+  <meta name='twitter:title' content='ROIPDA | Informasi Jalur Rakyat'>
+  <meta name='twitter:description' content='Informasi Jalur Rakyat RoIPDarulAman'>
+  <meta name='twitter:url' content='https://www.roipdarulaman.com/cbinfo'>
   <meta name='twitter:image' content='media/favicon/favicon-32x32.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
+  <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
+  <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
+  <meta name='msapplication-TileColor' content='#D7111B'>
+  <meta name='msapplication-TileImage' content='media/favicon/ms-icon-144x144.png'>
   <link rel='apple-touch-icon' sizes='57x57' href='media/favicon/apple-icon-57x57.png'>
   <link rel='apple-touch-icon' sizes='60x60' href='media/favicon/apple-icon-60x60.png'>
   <link rel='apple-touch-icon' sizes='72x72' href='media/favicon/apple-icon-72x72.png'>
@@ -34,23 +38,20 @@
   <link rel='apple-touch-icon' sizes='144x144' href='media/favicon/apple-icon-144x144.png'>
   <link rel='apple-touch-icon' sizes='152x152' href='media/favicon/apple-icon-152x152.png'>
   <link rel='apple-touch-icon' sizes='180x180' href='media/favicon/apple-icon-180x180.png'>
-  <link rel='icon' type='image/png' sizes='192x192'  href='media/favicon/android-icon-192x192.png'>
+  <link rel='icon' type='image/png' sizes='192x192' href='media/favicon/android-icon-192x192.png'>
   <link rel='icon' type='image/png' sizes='32x32' href='media/favicon/favicon-32x32.png'>
   <link rel='icon' type='image/png' sizes='96x96' href='media/favicon/favicon-96x96.png'>
   <link rel='icon' type='image/png' sizes='16x16' href='media/favicon/favicon-16x16.png'>
   <link rel='manifest' href='media/favicon/manifest.json'>
-  <meta name='msapplication-TileColor' content='#D7111B'>
-  <meta name='msapplication-TileImage' content='media/favicon/ms-icon-144x144.png'>
-  <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
-  <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
   <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
+  <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
+  <script async src='https://fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
   <script src='vendor/js/gtag.js'></script>
   <script src='vendor/js/gtm.js'></script>
-  <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> 
-  <script src='vendor/js/gfc.js'></script>
+  <script src='vendor/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
   <script src='vendor/js/clarity.js'></script>
 </head>
 

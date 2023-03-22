@@ -90,7 +90,7 @@ header h1{
   width: 16px;
   height: 10px;
   position: absolute;
-  background: #336699;
+  background: #ffec00;
   z-index: 5;
   left: 0;
   right: 0;
@@ -101,7 +101,7 @@ header h1{
 }
 
 .timeline .hexa:before {
-  border-bottom: 4px solid #336699;
+  border-bottom: 4px solid #ffec00;
   border-left-width: 8px;
   border-right-width: 8px;
   top: -4px;
@@ -110,7 +110,7 @@ header h1{
 .timeline .hexa:after {
   border-left-width: 8px;
   border-right-width: 8px;
-  border-top: 4px solid #336699;
+  border-top: 4px solid #ffec00;
   bottom: -4px;
 }
 
@@ -129,7 +129,7 @@ header h1{
 .flag {
   position: relative;
   display: inline-flex;
-  background: #336699;
+  background: #d7111b;
   font-weight: 700;
   z-index: 15;
   padding: 5px 10px;
@@ -148,7 +148,7 @@ header h1{
   width: 0;
   margin-left: -8px;
   border: solid transparent;
-  border-bottom-color: #336699;
+  border-bottom-color: #d7111b;
   border-width: 8px;
   pointer-events: none;
 }
@@ -185,7 +185,7 @@ header h1{
 }
 
 .time {
-  background: #56C3E7;
+  background: #369d27;
   display: inline-block;
   padding: 3px 5px;
   border-radius: 5px;
@@ -266,7 +266,7 @@ header h1{
     top: 50%;
     margin-top: -8px;
     border: solid transparent;
-    border-left-color: #336699;
+    border-left-color: #d7111b;
     border-width: 8px;
   }
 
@@ -274,7 +274,7 @@ header h1{
     top: 50%;
     margin-top: -8px;
     border: solid transparent;
-    border-right-color: #336699;
+    border-right-color: #d7111b;
     border-width: 8px;
     left: -8px;
   }

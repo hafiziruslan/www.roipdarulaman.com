@@ -2,29 +2,33 @@
 <html lang='ms-MY' data-bs-theme='dark'>
 
 <head>
-  <title>RoIPDarulAman | Akan Datang</title>
+  <title>ROIPDA | Isyarat Panggilan DA</title>
   <meta charset='utf-8'>
   <meta http-equiv='Content-Type' content='text/html'>
   <meta http-equiv='content-language' content='ms-MY'>
   <meta name='language' content='Malay'>
   <meta name='author' content='HafiziRuslan'>
   <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=yes'>
-  <meta name='title' content='RoIPDarulAman | Akan Datang'>
-  <meta name='description' content='Malaysian CB RoIP Society (RoIPDA)'>
+  <meta name='title' content='ROIPDA | Isyarat Panggilan DA'>
+  <meta name='description' content='RoIPDarulAman Isyarat Panggilan DA'>
   <meta name='keywords' content='roipdarulaman, darulaman, cbdarulaman, roipmalaysia, cbroipmalaysia'>
   <meta name='robots' content='index, follow'>
   <meta property='og:site_name' content='RoIPDarulAman'>
-  <meta property='og:title' content='RoIPDarulAman | Akan Datang'>
-  <meta property='og:description' content='Malaysian CB RoIP Society (RoIPDA)'>
-  <meta property='og:url' content='https://www.roipdarulaman.com'>
+  <meta property='og:title' content='ROIPDA | Isyarat Panggilan DA'>
+  <meta property='og:description' content='RoIPDarulAman Isyarat Panggilan DA'>
+  <meta property='og:url' content='https://www.roipdarulaman.com/cbda'>
   <meta property='og:image' content='media/favicon/favicon-32x32.png'>
   <meta property='og:type' content='website'>
   <meta property='og:locale' content='ms-MY'>
-  <meta name='twitter:title' content='RoIPDarulAman | Akan Datang'>
-  <meta name='twitter:description' content='Malaysian CB RoIP Society (RoIPDA)'>
-  <meta name='twitter:url' content='https://www.roipdarulaman.com'>
+  <meta name='twitter:title' content='ROIPDA | Isyarat Panggilan DA'>
+  <meta name='twitter:description' content='RoIPDarulAman Isyarat Panggilan DA'>
+  <meta name='twitter:url' content='https://www.roipdarulaman.com/cbda'>
   <meta name='twitter:image' content='media/favicon/favicon-32x32.png'>
   <meta name='twitter:creator' content='@HafiziRuslan'>
+  <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
+  <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
+  <meta name='msapplication-TileColor' content='#D7111B'>
+  <meta name='msapplication-TileImage' content='media/favicon/ms-icon-144x144.png'>
   <link rel='apple-touch-icon' sizes='57x57' href='media/favicon/apple-icon-57x57.png'>
   <link rel='apple-touch-icon' sizes='60x60' href='media/favicon/apple-icon-60x60.png'>
   <link rel='apple-touch-icon' sizes='72x72' href='media/favicon/apple-icon-72x72.png'>
@@ -34,24 +38,20 @@
   <link rel='apple-touch-icon' sizes='144x144' href='media/favicon/apple-icon-144x144.png'>
   <link rel='apple-touch-icon' sizes='152x152' href='media/favicon/apple-icon-152x152.png'>
   <link rel='apple-touch-icon' sizes='180x180' href='media/favicon/apple-icon-180x180.png'>
-  <link rel='icon' type='image/png' sizes='192x192'  href='media/favicon/android-icon-192x192.png'>
+  <link rel='icon' type='image/png' sizes='192x192' href='media/favicon/android-icon-192x192.png'>
   <link rel='icon' type='image/png' sizes='32x32' href='media/favicon/favicon-32x32.png'>
   <link rel='icon' type='image/png' sizes='96x96' href='media/favicon/favicon-96x96.png'>
   <link rel='icon' type='image/png' sizes='16x16' href='media/favicon/favicon-16x16.png'>
   <link rel='manifest' href='media/favicon/manifest.json'>
-  <meta name='msapplication-TileColor' content='#D7111B'>
-  <meta name='msapplication-TileImage' content='media/favicon/ms-icon-144x144.png'>
-  <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
-  <meta name='theme-color' media='(prefers-color-scheme: dark)' content='#FFEC00'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css' crossorigin='anonymous'>
   <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' crossorigin='anonymous'>
-  <link rel='stylesheet' href='https://cdn.datatables.net/v/bs5/dt-1.13.3/af-2.5.2/b-2.3.5/b-html5-2.3.5/b-print-2.3.5/cr-1.6.1/date-1.3.1/fc-4.2.1/fh-3.3.1/kt-2.8.1/r-2.4.0/rg-1.3.0/rr-1.3.2/sc-2.1.0/sb-1.4.0/sp-2.1.1/sl-1.6.1/sr-1.2.1/datatables.css' crossorigin='anonymous'>
   <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
+  <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
+  <script async src='https://fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
   <script src='vendor/js/gtag.js'></script>
   <script src='vendor/js/gtm.js'></script>
-  <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script> 
-  <script src='vendor/js/gfc.js'></script>
+  <script src='vendor/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
   <script src='vendor/js/clarity.js'></script>
 </head>
 
@@ -89,10 +89,10 @@
     <div class='col-12 text-center lh-sm'>
       <p><span class='cscount badge rounded-3 text-bg-success'></span><?php date_default_timezone_get(); $file_last_modified = filemtime(__FILE__); echo ' setakat ' . date('D, jS M Y h:iA T', $file_last_modified); ?></p>
       <!-- <p class='fw-bold'>Penafian: Sekiranya anda telah berdaftar sebagai Ahli CB, anda hanyalah sebagai Ahli CB kami bukanlah Ahli Persatuan. Ahli CB dan Ahli Persatuan adalah dua identiti yang berbeza.</p> -->
-      <p>Nota: Untuk semakan lebih lanjut atau sebarang penukaran maklumat, sila emel maklumat lengkap anda ke <a href='mailto:member@roipmars.org.my?subject=Inkuiri%20Callsign%20CB%20DarulAman'>member@roipmars.org.my</a> atau hubungi Setiausaha RoIP Darul Aman ditalian <a href='https://wa.me/601112308482?text=dari%3A%20https%3A%2F%2Fwww.roipmars.com%2Fcbda%0AInkuiri%20CallSign%20CB'>WhatsApp</a>.</p>
+      <p>Nota: Untuk semakan lebih lanjut atau sebarang penukaran maklumat, sila emel maklumat lengkap anda ke <a href='mailto:member@roipmars.org.my?subject=Inkuiri%20Callsign%20CB%20DarulAman'>member@roipmars.org.my</a> atau anda boleh berhubung terus dengan <a href='https://wa.me/601112308482?text=dari%3A%20https%3A%2F%2Fwww.roipdarulaman.com%2Fcbda%0AInkuiri%20CallSign%20CB'>Setiausaha RoIPDarulAman melalui WhatsApp</a>.</p>
     </div>
     <div class='col-12 my-3'>
-      <table class='table align-middle text-uppercase text-wrap user-select-none' id='cbdacslist'>
+      <table class='table table-sm align-middle text-uppercase text-wrap user-select-none' id='cbdacslist'>
         <thead>
           <tr><th>ID</th><th>CALLSIGN</th><th>NAMA</th><th>LOKALAN</th><th>DAFTAR</th></tr>
         </thead>
@@ -263,6 +263,7 @@
       </table>
     </div>
 	</main>
+  <button id='scrollToTop' class='btn fixed-bottom float-start mx-1' onClick='scrollToTop()'><i class='bi-arrow-up-square fs-1 text-white'></i></button>
   <footer class='footer pt-1 page-footer font-small bg-body-tertiary text-center'>
     <div class='container'>
       <div class='row my-2'>
