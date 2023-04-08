@@ -4,9 +4,7 @@ $(document).ready(function () {
     'ordering': true,
     'pagingType': 'first_last_numbers',
     'pageLength': 10,
-    'search': {
-      'smart': true
-    },
+    'search': { 'smart': true },
     'searchDelay': 500,
     'order': [0, 'desc'],
     'keys': {
@@ -14,16 +12,8 @@ $(document).ready(function () {
       'keys': ['\n'.charCodeAt(0)],
       'columns': [1, 2]
     },
-    'stripeClasses': [
-      'bg-light-subtle',
-      'bg-secondary-subtle'
-    ],
-    'columnDefs': [
-      {
-        'className': 'text-center',
-        'targets': '_all'
-      }
-    ],
+    'stripeClasses': ['bg-body-secondary', 'bg-body-tertiary'],
+    'columnDefs': [{ 'className': 'text-center text-white', 'targets': '_all' }],
     'language': {
       'lengthMenu': 'Paparkan _MENU_ rekod',
       'search': 'Cari:',

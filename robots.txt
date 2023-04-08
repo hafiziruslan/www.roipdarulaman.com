@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /vendor/
+
+Sitemap: https://www.roipdarulaman.com/sitemap.xml
