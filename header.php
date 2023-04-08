@@ -10,7 +10,7 @@
   <body>
     <header class='navbar navbar-expand-md bg-body-tertiary'>
       <div class='container'>
-        <a class='navbar-brand fs-3 text-danger-emphasis' href='https://www.roipdarulaman.com'><img class='img-fluid d-inline-block' src='media/favicon/favicon-96x96.png' width='30'> RoIPDARULAMAN</a>
+        <a class='navbar-brand fs-3 text-danger-emphasis' href='/'><img class='img-fluid d-inline-block' src='media/favicon/favicon-96x96.png' width='30'> RoIPDARULAMAN</a>
         <button class='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'><span class='navbar-toggler-icon'></span></button>
         <nav class='collapse navbar-collapse' id='navbarNav'>
           <ul class='nav navbar-nav nav-pills text-center d-flex ms-auto'>
