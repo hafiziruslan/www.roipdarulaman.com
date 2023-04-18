@@ -43,17 +43,17 @@
     <link rel='icon' type='image/png' sizes='96x96' href='media/favicon/favicon-96x96.png'>
     <link rel='icon' type='image/png' sizes='16x16' href='media/favicon/favicon-16x16.png'>
     <link rel='manifest' href='media/favicon/manifest.json'>
-    <link rel='stylesheet' href='vendor/css/timeline.css'>
+    <link rel='stylesheet' href='assets/css/timeline.css'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.css' integrity='sha256-MqxHKXoPHhIxNW13oU/DJXy7YisI6dDxk4Mzbu4YIGc=' crossorigin='anonymous'>
     <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' integrity='sha256-4RctOgogjPAdwGbwq+rxfwAmSpZhWaafcZR9btzUk18=' crossorigin='anonymous'>
     <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
     <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
     <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
     <script async src='https://fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
-    <script src='vendor/js/gtag.js'></script>
-    <script src='vendor/js/gtm.js'></script>
-    <script src='vendor/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
-    <script src='vendor/js/clarity.js'></script>
+    <script src='assets/js/gtag.js'></script>
+    <script src='assets/js/gtm.js'></script>
+    <script src='assets/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
+    <script src='assets/js/clarity.js'></script>
   </head>
 
   <body>
@@ -196,8 +196,8 @@
     <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.js' integrity='sha256-7beepUSyCg95tu27CxW8PfyK7VV3X4XUVksYGBcSLaw=' crossorigin='anonymous'></script>
     <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.js' integrity='sha256-8bk2Bq9Apy6HOcSWX4unJYw/3qZ5HWynocWHelfksQA=' crossorigin='anonymous'></script>
     <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.js' integrity='sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=' crossorigin='anonymous'></script>
-    <script src='vendor/js/tawkto.js'></script>
-    <script src='vendor/js/stt.js'></script>
+    <script src='assets/js/tawkto.js'></script>
+    <script src='assets/js/stt.js'></script>
   </body>
 
 </html>

@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"fiveServer.port": 5556,
+		"fiveServer.port": 5557,
 		"php.version": "8.2.4-win"
 	}
 }

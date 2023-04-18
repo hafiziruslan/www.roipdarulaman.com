@@ -50,10 +50,10 @@
   <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
   <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
   <script async src='https://fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
-  <script src='vendor/js/gtag.js'></script>
-  <script src='vendor/js/gtm.js'></script>
-  <script src='vendor/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
-  <script src='vendor/js/clarity.js'></script>
+  <script src='assets/js/gtag.js'></script>
+  <script src='assets/js/gtm.js'></script>
+  <script src='assets/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
+  <script src='assets/js/clarity.js'></script>
 </head>
 
 <body>
@@ -644,9 +644,9 @@
   <script src='https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.js' crossorigin='anonymous'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js' crossorigin='anonymous'></script>
   <script src='https://cdn.datatables.net/v/bs5/dt-1.13.3/af-2.5.2/b-2.3.5/b-html5-2.3.5/b-print-2.3.5/cr-1.6.1/date-1.3.1/fc-4.2.1/fh-3.3.1/kt-2.8.1/r-2.4.0/rg-1.3.0/rr-1.3.2/sc-2.1.0/sb-1.4.0/sp-2.1.1/sl-1.6.1/sr-1.2.1/datatables.js' crossorigin='anonymous'></script>
-  <script src='vendor/js/cbpre.js'></script>
-  <script src='vendor/js/tawkto.js'></script>
-  <script src='vendor/js/stt.js'></script>
+  <script src='assets/js/cbpre.js'></script>
+  <script src='assets/js/tawkto.js'></script>
+  <script src='assets/js/stt.js'></script>
 </body>
 
 </html>
