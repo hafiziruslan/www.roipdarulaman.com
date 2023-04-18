@@ -13,16 +13,16 @@
         <div class='row my-2'>
           <div class='col-lg-8 mx-auto my-1 text-md-start'>
             <h5 class='text-uppercase mb-2 fw-bold'>Sumbangan</h5>
-            <p class='mb-2'>Sumbangan &amp; Derma anda membantu Penyelidikan &amp; Pembangunan serta Perkhidmatan kami tersedia untuk anda sepanjang masa di mana sahaja.</p>
+            <p class='mb-2'>Sumbangan anda membantu segala perkhidmatan kami tersedia untuk anda sepanjang masa.</p>
             <table class='table table-sm table-bordered text-center align-middle text-wrap my-0 mx-auto w-auto' style='white-space: nowrap'>
               <tbody>
                 <tr>
                   <th>Nama</th>
-                  <td>PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP &#40;RADIO OVER INTERNET PROTOCOL&#41;&#41;</td>
+                  <td>PERSATUAN PEMINAT RADIO KOMUNIKASI</td>
                 </tr>
                 <tr>
                   <th>Bank</th>
-                  <td>BANK MUAMALAT MALAYSIA BERHAD / BMMBMYKL</td>
+                  <td>BANK MUAMALAT</td>
                 </tr>
                 <tr>
                   <th>Akaun</th>
@@ -31,7 +31,6 @@
               </tbody>
             </table>
             <p class='my-1 text-center'>Kami juga menerima <a class='link-primary' href='#' onClick='DonateWindow=window.open("https://payment.tngdigital.com.my/sc/bDLnBmDoDq", "TNGD RoIPMARS Donation", "width=800,height=600"); return false;'>TnG eWallet</a> | <a class='link-primary' href='#' onClick='DonateWindow=window.open("https://toyyibpay.com/sumbanganroipmars", "FPX Donation", "width=800,height=600"); return false;'>FPX MY Banks</a> | <a class='link-primary' href='#' onClick='DonateWindow=window.open("https://donate.stripe.com/5kA8AceIg7Gegbm5kk", "Stripe Donation", "width=800,height=600"); return false;'>Debit/Kredit Kad</a></p>
-            <p class='my-0 text-center'>&mdash; DARI ANDA KEMBALI KEPADA ANDA &mdash;</p>
           </div>
           <div class='col-lg-4 mx-auto my-1'>
             <h5 class='text-uppercase mb-2 fw-bold text-md-end'>Hubungi Kami</h5>
@@ -57,7 +56,7 @@
         </div>
         <div class='row my-2 d-flex align-items-center'>
           <div class='col-md-9'>
-            <p class='text-md-start font-monospace user-select-none'><a href='../../policies' class='text-reset text-decoration-none pe-auto'>Polisi Perkhidmatan</a><span class='text-body-tertiary'> &#124; <i class='fa-solid fa-code'></i> <i class='fa-brands fa-github'></i> <i class='fa-brands fa-php'></i> <i class='fa-brands fa-html5'></i> <i class='fa-brands fa-bootstrap'></i> <i class='fa-brands fa-css3'></i> <i class='fa-brands fa-font-awesome'></i> <i class='fa-brands fa-cloudflare'></i><br><?php date_default_timezone_get(); $fileindir = filemtime(scandir(__DIR__)[0]); function getVisitorIp() { if (!empty($_SERVER['HTTP_CLIENT_IP'])) { $ipAdress = $_SERVER['HTTP_CLIENT_IP']; } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) { $ipAdress = $_SERVER['HTTP_X_FORWARDED_FOR']; } else { $ipAdress = $_SERVER['https://api64.ipify.org']; } return $ipAdress; } echo 'Kemaskini: ' . date('d/m/Y, h:i A', $fileindir) . ' &#124; IP Anda: ' . getVisitorIp(); ?><br><i class='bi-c-circle'></i> 2020&ndash;<script>document.write(new Date().getFullYear())</script> Hak Cipta Terpelihara. &#124; PERSATUAN PEMINAT RADIO KOMUNIKASI &#40;ROIP&#91;RADIO OVER INTERNET PROTOCOL&#93;&#41; PPM-006-10-01062020</span></p>
+            <p class='text-md-start font-monospace user-select-none'><a href='../../policies' class='text-reset text-decoration-none pe-none'>Polisi Perkhidmatan</a><span class='text-body-tertiary'> &#124; <i class='fa-solid fa-code'></i> <i class='fa-brands fa-github'></i> <i class='fa-brands fa-php'></i> <i class='fa-brands fa-html5'></i> <i class='fa-brands fa-bootstrap'></i> <i class='fa-brands fa-css3'></i> <i class='fa-brands fa-font-awesome'></i> <i class='fa-brands fa-cloudflare'></i><br><?php date_default_timezone_get(); $fileindir = filemtime(scandir(__DIR__)[0]); function getVisitorIp() { if (!empty($_SERVER['HTTP_CLIENT_IP'])) { $ipAdress = $_SERVER['HTTP_CLIENT_IP']; } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) { $ipAdress = $_SERVER['HTTP_X_FORWARDED_FOR']; } else { $ipAdress = $_SERVER['https://api64.ipify.org']; } return $ipAdress; } echo 'Kemaskini: ' . date('d/m/Y, h:i A', $fileindir) . ' &#124; IP Anda: ' . getVisitorIp(); ?><br><i class='bi-c-circle'></i> 2020&ndash;<script>document.write(new Date().getFullYear())</script> Hak Cipta Terpelihara. &#124; ROIPDARULAMAN</span></p>
           </div>
           <div class='col-md-3 ml-lg-0 mb-3'>
             <div class='text-md-end'>
