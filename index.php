@@ -16,13 +16,13 @@
     <meta property='og:site_name' content='RoIPDarulAman'>
     <meta property='og:title' content='ROIPDA | Akan Datang'>
     <meta property='og:description' content='RoIPDarulAman'>
-    <meta property='og:url' content='https://www.roipdarulaman.com'>
+    <meta property='og:url' content='www.roipdarulaman.com'>
     <meta property='og:image' content='media/favicon/favicon-32x32.png'>
     <meta property='og:type' content='website'>
     <meta property='og:locale' content='ms-MY'>
     <meta name='twitter:title' content='ROIPDA | Akan Datang'>
     <meta name='twitter:description' content='RoIPDarulAman'>
-    <meta name='twitter:url' content='https://www.roipdarulaman.com'>
+    <meta name='twitter:url' content='www.roipdarulaman.com'>
     <meta name='twitter:image' content='media/favicon/favicon-32x32.png'>
     <meta name='twitter:creator' content='@HafiziRuslan'>
     <meta name='theme-color' media='(prefers-color-scheme: light)' content='#D7111B'>
@@ -43,12 +43,12 @@
     <link rel='icon' type='image/png' sizes='96x96' href='media/favicon/favicon-96x96.png'>
     <link rel='icon' type='image/png' sizes='16x16' href='media/favicon/favicon-16x16.png'>
     <link rel='manifest' href='media/favicon/manifest.json'>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.css' integrity='sha256-MqxHKXoPHhIxNW13oU/DJXy7YisI6dDxk4Mzbu4YIGc=' crossorigin='anonymous'>
-    <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' integrity='sha256-4RctOgogjPAdwGbwq+rxfwAmSpZhWaafcZR9btzUk18=' crossorigin='anonymous'>
-    <script src='https://kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
-    <script async src='https://www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
-    <script async src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
-    <script async src='https://fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
+    <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.css' integrity='sha256-MqxHKXoPHhIxNW13oU/DJXy7YisI6dDxk4Mzbu4YIGc=' crossorigin='anonymous'>
+    <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' integrity='sha256-4RctOgogjPAdwGbwq+rxfwAmSpZhWaafcZR9btzUk18=' crossorigin='anonymous'>
+    <script src='//kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
+    <script async src='//www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
+    <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
+    <script async src='//fundingchoicesmessages.google.com/i/pub-1205248207690495?ers=1' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
     <script src='assets/js/gtag.js'></script>
     <script src='assets/js/gtm.js'></script>
     <script src='assets/js/gfc.js' nonce='nLBiTr-Hd6zWbl5ZT9wqvA'></script>
@@ -56,7 +56,7 @@
   </head>
 
   <body>
-    <noscript><iframe src='https://www.googletagmanager.com/ns.html?id=GTM-TSZNJ3V' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+    <noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-TSZNJ3V' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
     <header class='navbar navbar-expand-md bg-body-tertiary'>
       <div class='container'>
         <a class='navbar-brand fs-3 text-danger' href='/'><img class='img-fluid d-inline-block' src='media/favicon/favicon-96x96.png' width='25'> RoIPDARULAMAN</a>
@@ -72,9 +72,9 @@
                 <li><a class='dropdown-item' href='cbda'>CB RoIPDarulAman</a></li>
               </ul>
             </li>
-            <li class='nav-item'><a class='nav-link text-primary-emphasis' href='https://www.roipmars.org.my' target='_blank' rel='noopener'>Kumpulan RoIPMARS</a></li>
-            <li class='nav-item'><a class='nav-link text-info-emphasis' href='https://kedai.roipmars.org.my' target='_blank' rel='noopener'><i class='bi-cart4'></i> Kedai</a></li>
-            <li class='nav-item'><a class='nav-link text-success-emphasis' href='https://ftp.roipmars.org.my' target='_blank' rel='noopener'><i class='bi-download'></i> Muat Turun</a></li>
+            <li class='nav-item'><a class='nav-link text-primary-emphasis' href='//www.roipmars.org.my' target='_blank' rel='noopener'>Kumpulan RoIPMARS</a></li>
+            <li class='nav-item'><a class='nav-link text-info-emphasis' href='//kedai.roipmars.org.my' target='_blank' rel='noopener'><i class='bi-cart4'></i> Kedai</a></li>
+            <li class='nav-item'><a class='nav-link text-success-emphasis' href='//ftp.roipmars.org.my' target='_blank' rel='noopener'><i class='bi-download'></i> Muat Turun</a></li>
           </ul>
         </nav>
       </div>
@@ -85,26 +85,26 @@
         <div class='col-12'>
           <h1 class='pt-3'>AKAN DATANG</h1>
           <h2 class='fs-1 fw-bold text-danger'>ROIP DARUL AMAN</h2>
-          <div class='progress rounded-pill w-75 mx-auto' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='40' aria-valuemax='100' style='height: 20px'>
-            <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-0 text-start ps-2' style='width: 40%' id='prog'></div>
+          <div class='progress rounded-pill w-75 mx-auto' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='20' aria-valuemax='100' style='height: 20px'>
+            <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-0 text-start ps-2' style='width: 20%' id='prog'></div>
           </div>
           <p class='fs-1 mb-0'>Laman sesawang ini akan dilancarkan dalam:</p>
           <div class='d-flex justify-content-center gap-3 fs-1 fw-bold mt-0'>
             <span class='countdown text-danger-emphasis'>
-              <div class='spinner-border text-body fs-6 fw-light mb-3' role='status'><span class='visually-hidden'>Loading...</span></div>
+              <div class='spinner-border text-body fs-6 fw-light mb-3' role='status'><span class='visually-hidden'>Memuatkan...</span></div>
             </span>
           </div>
-          <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda.<br>Terima kasih.</p>
-          <p>Kenali pembangun sesawang melalui <a href='https://bit.ly/m/hafiziruslan'>pautan</a> ini.</p>
+          <!-- <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda.<br>Terima kasih.</p> -->
+          <p>Kenali &amp; hargai pembangun sesawang melalui <a href='//bit.ly/m/hafiziruslan'>pautan ini</a>.</p>
         </div>
       </div>
     </main>
     <button id='scrollToTop' class='btn fixed-bottom float-start mx-1' onClick='scrollToTop()'><i class='bi-arrow-up-square fs-1 text-white'></i></button>
     <?php include('footer.php') ?>
-    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.js' integrity='sha256-7beepUSyCg95tu27CxW8PfyK7VV3X4XUVksYGBcSLaw=' crossorigin='anonymous'></script>
-    <script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.js' integrity='sha256-8bk2Bq9Apy6HOcSWX4unJYw/3qZ5HWynocWHelfksQA=' crossorigin='anonymous'></script>
-    <script src='https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.js' integrity='sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=' crossorigin='anonymous'></script>
-    <script src='https://unpkg.com/typewriter-effect@latest/dist/core.js' crossorigin='anonymous'></script>
+    <script src='//cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.js' integrity='sha256-7beepUSyCg95tu27CxW8PfyK7VV3X4XUVksYGBcSLaw=' crossorigin='anonymous'></script>
+    <script src='//cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.js' integrity='sha256-8bk2Bq9Apy6HOcSWX4unJYw/3qZ5HWynocWHelfksQA=' crossorigin='anonymous'></script>
+    <script src='//cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.js' integrity='sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=' crossorigin='anonymous'></script>
+    <script src='//unpkg.com/typewriter-effect@latest/dist/core.js' crossorigin='anonymous'></script>
     <script src='assets/js/counter.js'></script>
     <script src='assets/js/typewriter.js'></script>
     <script src='assets/js/tawkto.js'></script>
