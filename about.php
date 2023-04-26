@@ -45,7 +45,7 @@
     <link rel='manifest' href='media/favicon/manifest.json'>
     <link rel='stylesheet' href='assets/css/timeline.css'>
     <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.css' integrity='sha256-MqxHKXoPHhIxNW13oU/DJXy7YisI6dDxk4Mzbu4YIGc=' crossorigin='anonymous'>
-    <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css' integrity='sha256-4RctOgogjPAdwGbwq+rxfwAmSpZhWaafcZR9btzUk18=' crossorigin='anonymous'>
+    <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css' integrity='sha256-2IJPcGfN/qOK/sfp/68HISUmaCQgbWnvHxEtchU6UF4=' crossorigin='anonymous'>
     <script src='//kit.fontawesome.com/221737b641.js' crossorigin='anonymous'></script>
     <script async src='//www.googletagmanager.com/gtag/js?id=G-CXZ2LNK732'></script>
     <script async src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1205248207690495' crossorigin='anonymous'></script>
