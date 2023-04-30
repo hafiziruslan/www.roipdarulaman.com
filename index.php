@@ -60,7 +60,7 @@
     <header class='navbar navbar-expand-md bg-body-tertiary'>
       <div class='container'>
         <a class='navbar-brand fs-3 text-danger' href='/'><img class='img-fluid d-inline-block' src='media/favicon/favicon-96x96.png' width='25'> RoIPDARULAMAN</a>
-        <button class='navbar-toggler' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'><span class='navbar-toggler-icon'></span></button>
+        <button class='navbar-toggler border-0' type='button' data-bs-toggle='collapse' data-bs-target='#navbarNav' aria-controls='navbarNav' aria-expanded='false' aria-label='Toggle navigation'><span class='bi-menu-button-wide'></span></button>
         <nav class='collapse navbar-collapse' id='navbarNav'>
           <ul class='nav navbar-nav nav-pills text-center d-flex ms-auto'>
             <li class='nav-item'><a class='nav-link disabled' href='about'>Tentang Kami</a></li>
@@ -84,17 +84,16 @@
       <div class='row'>
         <div class='col-12'>
           <h1 class='pt-3'>AKAN DATANG</h1>
-          <h2 class='fs-1 fw-bold text-danger'>ROIP DARUL AMAN</h2>
-          <div class='progress rounded-pill w-75 mx-auto' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='20' aria-valuemax='100' style='height: 20px'>
-            <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-0 text-start ps-2' style='width: 20%' id='prog'></div>
+          <h2 class='fs-1 fw-bold text-danger'>ROIP-DARULAMAN</h2>
+          <div class='progress rounded-pill mx-auto' role='progressbar' aria-label='webfe-progress' aria-valuemin='0' aria-valuenow='25' aria-valuemax='100' style='height: 20px'>
+            <div class='progress-bar progress-bar-striped progress-bar-animated rounded-end-0 text-start ps-2' style='width: 25%' id='prog'></div>
           </div>
-          <p class='fs-1 mb-0'>Laman sesawang ini akan dilancarkan dalam:</p>
-          <div class='d-flex justify-content-center gap-3 fs-1 fw-bold mt-0'>
+          <div class='d-flex justify-content-center gap-3 fs-1 fw-bold my-2'>
             <span class='countdown text-danger-emphasis'>
-              <div class='spinner-border text-body fs-6 fw-light mb-3' role='status'><span class='visually-hidden'>Memuatkan...</span></div>
+              <div class='spinner-border text-body fw-light' role='status'><span class='visually-hidden'>Memuatkan...</span></div>
             </span>
           </div>
-          <!-- <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda.<br>Terima kasih.</p> -->
+          <p class='lh-1'>Sebarkan kepada sahabat handai, rakan taulan dan keluarga anda. Terima kasih.</p>
           <p>Kenali &amp; hargai pembangun sesawang melalui <a href='//bit.ly/m/hafiziruslan'>pautan ini</a>.</p>
         </div>
       </div>
